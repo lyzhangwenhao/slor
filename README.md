@@ -1,3 +1,2 @@
-# slor
 solr study
-#slor学习代码
+# slor学习代码
